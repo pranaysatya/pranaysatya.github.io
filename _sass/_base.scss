@@ -1423,3 +1423,13 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+/*******************************************************************************
+ * Custom Profile Image Styling
+ ******************************************************************************/
+
+.profile img {
+  max-height: 300px;           /* Limit height - adjust as needed */
+  object-fit: cover;           /* Crop to fill the space */
+  object-position: center 20%; /* Focus on upper part (face) - adjust the % */
+}
