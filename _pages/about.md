@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am a second year PhD student in the Department of Systems Biology at Columbia University where I am co-advised by [Mohammed AlQuriashi](https://www.aqlab.io) and [Raul Rabadan](https://rabadanlab.org). I am currently exploring the application of deep learning for variant effect problems in structural biology and functional genomics. 
+Hello! I am a second year PhD student in the Department of Systems Biology at Columbia University where I am co-advised by [Mohammed AlQuriashi](https://www.aqlab.io) and [Raul Rabadan](https://rabadanlab.org). I am currently exploring the application of machine learning for variant effect problems in structural biology and functional genomics. 
 
-I earned my undergraduate degree in bioengineering at the California Institute of Technology (Caltech) in 2024.
+I earned my undergraduate degree in bioengineering from Caltech in 2024.
 
 
