@@ -16,12 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-joined-alquraishi-and-rabadan-labs",
+        },{id: "news-joined-alquraishi-and-rabadan-labs",
           title: 'Joined AlQuraishi and Rabadan labs!',
           description: "",
           section: "News",},{id: "projects-project-1",
